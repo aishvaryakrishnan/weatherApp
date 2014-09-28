@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeatherApp</string>
+    <string name="loc">Please enter City or State or Country</string>
+    <string name="curWeather">Current Weather</string>
+    <string name="temp">Temperature</string>
+    <string name="press">Pressure</string>
+    <string name="hum">Humidity</string>
+    <string name="win">Wind</string>
+    <string name="fore">Forecast</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
